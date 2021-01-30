@@ -1,0 +1,7 @@
+.alert{
+    font-size:25px;
+    transition:.6s;
+}
+.alert:hover{
+    background-color: rgb(255, 255, 255);
+}
